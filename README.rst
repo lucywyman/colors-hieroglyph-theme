@@ -2,8 +2,9 @@ A Colorful Theme for Hieroglyph
 -------------------------------
 
 To make go:
+
 ```
-$ pip install colorful-hieorglyph-theme
+$ pip install colorful_hieorglyph_theme
 ```
 
 In your conf.py::
